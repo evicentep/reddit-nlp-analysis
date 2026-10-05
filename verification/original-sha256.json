@@ -1,0 +1,92 @@
+[
+  {
+    "file": "Autism_filtrado.json",
+    "size_bytes": 556335,
+    "sha256": "5e9d85f117ab8c8305a2c269df53037e5d47db819595baa41074fcbbd0f1075b"
+  },
+  {
+    "file": "Autism_resumido_FINAL.json",
+    "size_bytes": 587254,
+    "sha256": "7d1bd237a7bae220b3eeeb9de62fd93fa01a86cf1b68f9f020348305d9710634"
+  },
+  {
+    "file": "Chemistry_filtrado.json",
+    "size_bytes": 537771,
+    "sha256": "054aa63c3d8b97f701980c1541e0b00e7bc635fd50d542bbe8e14222935f8b66"
+  },
+  {
+    "file": "Chemistry_resumido_FINAL.json",
+    "size_bytes": 568710,
+    "sha256": "bd4fa7dac95976163b1c53ea9fd91b6dd344de9592979c02655ccc34a17d9a39"
+  },
+  {
+    "file": "Cooking_filtrado.json",
+    "size_bytes": 602505,
+    "sha256": "080f2f22b001fbda5d304396ccca27aa3eed69f45f9c9d82c80abd7e441719a4"
+  },
+  {
+    "file": "Cooking_resumido_FINAL.json",
+    "size_bytes": 631753,
+    "sha256": "c8eb5b14c511341ed8436dee92a49901a9d1a32a64e0705bec3b3f64ff145f8e"
+  },
+  {
+    "file": "Investing_filtrado.json",
+    "size_bytes": 547437,
+    "sha256": "2b2f2c0689958892c8317e65f030bfe53959f7d32c6d82b340925c03d19c0e12"
+  },
+  {
+    "file": "Investing_resumido_FINAL.json",
+    "size_bytes": 576257,
+    "sha256": "afa0711e0c910eacea71aec4bd989d46bc3df518abed2cec0d85ac6e63dad9df"
+  },
+  {
+    "file": "OpinionesPolemicas_filtrado.json",
+    "size_bytes": 283183,
+    "sha256": "6ac7315486323e5cd415789966151b59d663ec2b75a45d61323a063093e14845"
+  },
+  {
+    "file": "OpinionesPolemicas_resultados_inapropiado.json",
+    "size_bytes": 342890,
+    "sha256": "ce74b7ac6914d6cf8e764ebed9ffd1504db6c19af8045b9ea5b2fe23ccdf3972"
+  },
+  {
+    "file": "PLNE_EnriqueVicente_JoseMontesinos_Final.ipynb",
+    "size_bytes": 2168881,
+    "sha256": "9bdb13b1029880c283960b48c823aad704ece0ff7b15ac8263ca2c8d6687814b"
+  },
+  {
+    "file": "Python_filtrado.json",
+    "size_bytes": 541893,
+    "sha256": "e40063f18f7498fefe315c7f79ec7865fd040e09a23f7591f587a6e3deda6836"
+  },
+  {
+    "file": "Python_resumido_FINAL.json",
+    "size_bytes": 570015,
+    "sha256": "046fc76e8d79e6e90f5504b6c63d36045e4caab7f88e7f718d2133d9a4c8704d"
+  },
+  {
+    "file": "Soccer_filtrado.json",
+    "size_bytes": 537428,
+    "sha256": "e3cb296744a0d9e341dcf7c727ab6c24fd256d9f4f1f54e784900d37f9acce3f"
+  },
+  {
+    "file": "Soccer_resumido_FINAL.json",
+    "size_bytes": 563685,
+    "sha256": "8e285a1a9fd54b8f6bd2d29e44765f0ef5403f36e6e34adf03767ab1f53c6a8c"
+  },
+  {
+    "file": "split_summary.txt",
+    "size_bytes": 1202,
+    "sha256": "67d5c3abfb2ed2015cbf50a7e002dd1d602f0295b31810424d124a422a0aba9c"
+  },
+  {
+    "file": "test.json",
+    "size_bytes": 547274,
+    "sha256": "b9a404bc3b7dd7754784653ac16071f02ffa26c4a296cf6693230a1aa751ead2"
+  },
+  {
+    "file": "train.json",
+    "size_bytes": 1223991,
+    "sha256": "0ecc19de72259f67bcc25cc71a1efe817e8b2f4b05911c4d1a88b0fdfaf1847e"
+  }
+]

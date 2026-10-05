@@ -1,0 +1,10 @@
+{
+  "original_sha256": "9bdb13b1029880c283960b48c823aad704ece0ff7b15ac8263ca2c8d6687814b",
+  "public_sha256": "cd272d067831a25645fa97871c48c6581e1d550d26623d3fc6ffcf3f8676e490",
+  "changed_cell_indices_zero_based": [
+    78,
+    91
+  ],
+  "replaced_credential_literals": 2,
+  "all_other_content_preserved": true
+}
